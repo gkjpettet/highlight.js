@@ -383,11 +383,6 @@ import hljs from 'highlight.js/lib/highlight';
 import 'highlight.js/styles/github.css';
 ```
 
-## License
-
-Highlight.js is released under the BSD License. See [LICENSE][7] file
-for details.
-
 ## Links
 
 The official site for the library is at <https://highlightjs.org/>.
